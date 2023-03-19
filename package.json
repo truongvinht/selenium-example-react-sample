@@ -1,0 +1,15 @@
+{
+  "name": "selenium-example-react-sample",
+  "version": "1.0.0",
+  "description": "sample for testing react sample",
+  "main": "selenium.js",
+  "scripts": {
+    "test": "node selenium"
+  },
+  "author": "Truong Vinh Tran",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^111.0.0",
+    "selenium-webdriver": "^4.8.1"
+  }
+}
